@@ -1,0 +1,8 @@
+{
+    "modules": [
+        "user/dashboard",
+        "user/basic",
+        "user/btsradio"
+      
+    ]
+}
